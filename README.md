@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jakejjoyner
-- 👀 I’m interested in aerospace engineering
-- 🌱 I’m currently learning html css and javascript
+- 👀 I’m interested in computer science
+- 🌱 I’m currently learning html c++ and data structures
 - 📫 How to reach me: jakejoyner9@gmail.com
 
 <!---
